@@ -1,0 +1,1 @@
+/home/will/Documents/source/repos/advent_of_code/day1/target/debug/day1: /home/will/Documents/source/repos/advent_of_code/day1/src/input.txt /home/will/Documents/source/repos/advent_of_code/day1/src/main.rs
